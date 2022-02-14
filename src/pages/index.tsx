@@ -17,7 +17,7 @@ export default function Home() {
           alignItems="flex-center"
           flexDir='column'
         >
-          <SimpleGrid columns={[2, null, 3]} spacing={10}>
+          <SimpleGrid columns={[1, 2, 3]} spacing={10}>
             <Card />
             <Card />
             <Card />
